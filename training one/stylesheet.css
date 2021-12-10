@@ -1,0 +1,26 @@
+img{
+height: 100vh;
+padding-left: 35vh;
+padding-right: 35vh;
+}
+body{
+background-image: url("OIP.jpg")
+
+
+}
+.card{
+    display: inline-flex;
+    margin: 0;
+    padding: 0;
+    width: 33%;
+    text-align: left;
+    float: left;
+  }
+  .serv ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+  }
+  .serv ul li span {
+    padding: 0;
+  }
